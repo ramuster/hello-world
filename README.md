@@ -7,3 +7,9 @@ This is a test of markdown, which has many advantages:
 - readable
 - common
 
+It can be used to write webpages and blog posts.
+
+This is a horizontal line:
+
+**********
+
